@@ -1,0 +1,25 @@
+ Primitive   \\\\\\\\\\     non  Primitive
+
+
+
+ Primitive
+ 
+ byte
+ short 
+ char
+ boolean
+ int
+ long
+ float
+ double
+
+
+
+
+ Non Primitive
+
+ string 
+ array
+ class
+ object
+ interface
