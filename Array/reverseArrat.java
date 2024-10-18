@@ -2,6 +2,7 @@
 public class reverseArrat {
 
     public static void reverse(int number[]) {
+
         int start = 0, end = number.length - 1;
         while (start < end) {
 
