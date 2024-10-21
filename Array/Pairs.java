@@ -2,6 +2,7 @@ public class Pairs {
 
     public static void Pairsinarray(int number[]) {
         int tp = 0;
+
         for (int i = 0; i < number.length; i++) {
             int curr = number[i];
             for (int j = i + 1; j < number.length; j++) {
@@ -11,7 +12,6 @@ public class Pairs {
             System.out.println();
         }
         System.out.println("total pairs :" + tp);
-
     }
 
     public static void main(String[] args) {
